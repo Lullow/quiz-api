@@ -4,4 +4,5 @@ venv
 .*env*
 description*
 __pycache__/
-schemas.sql
+schemas.sql.DS_Store
+Thumbs.db
